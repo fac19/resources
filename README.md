@@ -3,7 +3,9 @@
 # RESOURCES
 
 This repo is a place to store all the wonderful resources you stumble across.
-Because Sharing is Caring.
+Because Sharing is Caring. 
+
+Credit to [Joko](https://github.com/jokosanyang)
 
 ## List of categories
 
@@ -32,7 +34,7 @@ In order to keep some semblance of order in this library, please add your resour
 
 | Link                       | Description                                                     | Added by     |
 | -------------------------- | --------------------------------------------------------------- | ------------ |
-| http://www.simpleicons.org | Simple, free SVG icons of pretty much any logo you can think of | @jokosanyang |
+| http://www.simpleicons.org | Simple, free SVG icons of pretty much any logo you can think of | @[jokosanyang](https://github.com/jokosanyang) |
 
 ## How to request a resource
 
