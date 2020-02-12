@@ -5,7 +5,7 @@
 This repo is a place to store all the wonderful resources you stumble across.
 Because Sharing is Caring. 
 
-Credit to [Joko](https://github.com/jokosanyang)
+Credit to [Joko](https://github.com/jokosanyang) for the ingenious idea!
 
 ## List of categories
 
