@@ -2,4 +2,6 @@
 
 | Link | Description | Added by |
 | ---- | ----------- | -------- |
-| Link | Desc        | author   |
+| https://help.github.com/en/github/managing-your-work-on-github/about-project-boards| About Github project boards | lizzy-j |
+| https://help.github.com/en/github/committing-changes-to-your-project/creating-a-commit-with-multiple-authors | Co-authoring on Github | lizzy-j |
+| https://www.atlassian.com/git/tutorials/syncing/git-pull | Atlassian Git Documentation | lizzy-j |
