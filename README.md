@@ -19,6 +19,7 @@ Credit to [Joko](https://github.com/jokosanyang) for the ingenious idea!
 - [Node.js](./directory/node.md)
 - [Job search](./directory/jobs.md)
 - [Meetups](./directory/meetups.md)
+- [Accessibility](./accessibility)
 
 This repo belongs to you, so don't hesitate to add any new categories if you feel any are missing.
 
