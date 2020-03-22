@@ -6,4 +6,4 @@
 | https://yoksel.github.io/flex-cheatsheet/ | Flexbox cheatsheet | hannahgooding |
 | https://codepen.io/oliverjam/full/YzXYRzw | Flex grow/shrink/basis interactive explanation | oliverjam |
 | https://blog.logrocket.com/how-to-create-better-themes-with-css-variables-5a3744105c74/ | How to create better themes with CSS variables | lizzy-j |
-
+| https://css-tricks.com/responsive-grid-magazine-layout-in-just-20-lines-of-css/ | Responsive Grid Magazine Layout in Just 20 Lines of CSS | glrta |
