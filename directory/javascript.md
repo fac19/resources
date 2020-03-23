@@ -15,3 +15,5 @@
 | https://stackoverflow.com/questions/12528049/if-a-dom-element-is-removed-are-its-listeners-also-removed-from-memory | If a DOM Element is removed, are its listeners also removed from memory? | glrta|
 | https://www.youtube.com/watch?v=7qEXPwG71RI | Coding a Roman numeral converter in JavaScript (using TDD) by Oli | glrta|
 | https://github.com/oliverjam/tdd-array-methods/blob/master/solution/tdd-explanation.js | TDD step-by-step (updated TDD array-methods workshop) | glrta|
+| https://codepen.io/oliverjam/pen/vYOajog?editors=1010 | Finding which radio is checked (Oli's codepen) | glrta|
+
