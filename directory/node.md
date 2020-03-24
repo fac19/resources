@@ -8,3 +8,4 @@
 | https://blog.codeanalogies.com/2018/02/02/localhost-explained-by-trying-to-start-a-microbrewery/ | Localhost Explained By Starting A Microbrewery| akomiqaia |
 | https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types | MIME types (IANA media types) | akomiqaia |
 | https://github.com/oliverjam/node-introduction | Node Introduction | akomiqaia |
+| https://nodejs.dev/ | node tutorial | akomiqaia |
