@@ -23,6 +23,7 @@ Credit to [Joko](https://github.com/jokosanyang) for the ingenious idea!
 
 This repo belongs to you, so don't hesitate to add any new categories if you feel any are missing.
 - [Self Care](./directory/selfcare.md)
+- [Books](./directory/books.md)
 
 ## How to add a resource
 
