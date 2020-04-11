@@ -6,4 +6,4 @@
 | https://color.adobe.com/create | Adobe colour wheel generator. Plus: generates a colour scheme based on a uploaded img | glrta |
 | https://krisp.ai | Blocks background noise | glrta |
 | https://regex101.com/ | Regex generator | Hettie |
-| https://coolors.co/app | Generates up to 5 colours for themes | Jack|
+| https://coolors.co/app | Generates 5 colours for a nice theme | Jack|
