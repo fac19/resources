@@ -12,4 +12,4 @@
 | https://nodejs.dev/ | node tutorial | akomiqaia |
 | https://itnext.io/how-to-handle-the-post-request-body-in-node-js-without-using-a-framework-cd2038b93190 | How to handle the POST request body in Node.js without using a framework | akomiqaia |
 | https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X | Working with Data and APIs in JavaScript | akomiqaia |
-
+| https://files.slack.com/files-pri/TJ91QJ800-F011SKBTD1B/client-server.png | Oli's diagram on how an API typically interacts with a client | Jack |
