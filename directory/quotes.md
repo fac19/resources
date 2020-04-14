@@ -9,7 +9,8 @@ Week 5 presentations - Nominated by Reuben FAC17 03/04/20
 
 ## The bad 
 <-- Insert quotes here -->
-
+Vatsal: "I am too hard worker to know what REST is"
+Week 7 Learn REST APIs workshop - Nominated by Gio 14 April 2020
 
 ## The ugly
 <-- Insert quotes here -->
