@@ -11,5 +11,8 @@ Week 5 presentations - Nominated by Reuben FAC17 03/04/20
 Vatsal: "I am too hard worker to know what REST is"
 Week 7 Learn REST APIs workshop - Nominated by Gio 14 April 2020
 
+Hettie: "You'd think that if they were good enough to sign up they wouldn't be di_ks"
+Week 7 TFB Workshop - Nominated by Kat 14 April 2020
+
 ## The ugly
 <-- Insert quotes here -->
