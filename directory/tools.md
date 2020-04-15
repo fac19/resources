@@ -7,4 +7,4 @@
 | https://krisp.ai | Blocks background noise | glrta |
 | https://regex101.com/ | Regex generator | Hettie |
 | [Coolors](https://coolors.co/app) | Generates 5 colours for a nice theme | Jack|
-| [Debugging bliss](https://vgpena.github.io/debugging-bliss/ | Debugging best practice | Jack |
+| [Debugging bliss](https://vgpena.github.io/debugging-bliss/) | Debugging best practice | Jack |
