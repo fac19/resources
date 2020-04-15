@@ -6,5 +6,5 @@
 | https://color.adobe.com/create | Adobe colour wheel generator. Plus: generates a colour scheme based on a uploaded img | glrta |
 | https://krisp.ai | Blocks background noise | glrta |
 | https://regex101.com/ | Regex generator | Hettie |
-| https://coolors.co/app | Generates 5 colours for a nice theme | Jack|
-| https://vgpena.github.io/debugging-bliss/ | Debugging best practice | Jack |
+| [Coolors](https://coolors.co/app) | Generates 5 colours for a nice theme | Jack|
+| [Debugging bliss](https://vgpena.github.io/debugging-bliss/ | Debugging best practice | Jack |
