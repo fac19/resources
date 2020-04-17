@@ -17,7 +17,7 @@ This file should contain the names of each Wed & Fri speaker and a link to their
 | 6 | Cat (DotProject)        | [DotProject and Charity Sector](https://docs.google.com/presentation/d/1kwNjlF2M2z24W1EeGLSkfj7GdcupuG-EUmwBtbTgikE/edit#slide=id.g72fbad0f44_1_2)  |
 | 6 | Ivan (FAC7/InFact)        | [Learning how to Learn](https://learning-how-to-learn.now.sh/#0)  |
 | 7    | Reuben (FAC17)        | [JS Gotchas](https://hackmd.io/nJ7k8cZzQ9qxqaxxTudMWQ) |
-| 7    | Dan (FAC18)        | [Workers Rights, Unions](https://hackmd.io/@plasticneuron/fac19-unions-notes) |
+| 7    | Dan (FAC18)        | [Workers Rights, Unions](https://hackmd.io/@edificex/fac19-unions-notes) |
 | 8    | Emily (fluidly/FAC9)        | [Topic](#) |
 | 8    | Cesar (allplants)        | [Topic](#) |
 | 10    | Bobby (FAC16)        | [Topic](#) |
