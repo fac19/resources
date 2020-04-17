@@ -18,3 +18,21 @@ This file should contain the names of each Wed & Fri speaker and a link to their
 | 6 | Ivan (FAC7/InFact)        | [Learning how to Learn](https://learning-how-to-learn.now.sh/#0)  |
 | 7    | Reuben (FAC17)        | [JS Gotchas](https://hackmd.io/nJ7k8cZzQ9qxqaxxTudMWQ) |
 | 7    | Dan (FAC18)        | [Workers Rights, Unions](#) |
+| 8    | Emily (fluidly/FAC9)        | [Topic](#) |
+| 8    | Cesar (allplants)        | [Topic](#) |
+| 10    | Bobby (FAC16)        | [Topic](#) |
+| 10   | Helen (FAC13/ThoughtWorks)        | [Topic](#) |
+| 11    | Elias (FACN1)        | [Topic](#) |
+| 11    | Johanna (FAC12 / Workerbird)        | [Topic](#) |
+| 12   | Michael (FAC14)        | [Topic](#) |
+| 12   | Adam (Dangoor Mendel)        | [Topic](#) |
+| 13   | Name        | [Topic](#) |
+| 13   | Martin (FAC14/8th Light)        | [Topic](#) |
+| 14   | Joe Friel (FAC14/Yalla)        | [Topic](#) |
+| 14   | Dom (FAC14)        | [Topic](#) |
+| 15   | Eade (Daye)        | [Topic](#) |
+| 15   | Akin (FAC10)        | [Topic](#) |
+| 16   | Name        | [Topic](#) |
+| 16   | Anni (Intersticia)        | [Topic](#) |
+
+
