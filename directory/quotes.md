@@ -11,6 +11,8 @@ Vatsal (masquerading as Jack): "make a circle with hands"
 ![](https://i.imgur.com/J7U9Bhf.png)
 Week 7 Playing Drawasaurus - Nominated by Hannah FAC19 15/04/20
 
+'There are no regrets, only stretch goals'
+
 ## The bad 
 Vatsal: "I am too hard worker to know what REST is"
 Week 7 Learn REST APIs workshop - Nominated by Gio 14 April 2020
