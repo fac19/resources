@@ -7,6 +7,9 @@ Please ask the quotee that they ok with being quoted! Add the time, place and pe
 Ina: “You dont know what you dont know until someone forces you to explain it to them step by step.”
 Week 5 presentations - Nominated by Reuben FAC17 03/04/20
 
+Ako: "Yes you are right... semantically." The Art of Passive Agressive Feedback by Akaki Mikaia
+CADO W7 SGC - Nominated by Joe FAC19 17/04/20
+
 Vatsal (masquerading as Jack): "make a circle with hands"
 ![](https://i.imgur.com/J7U9Bhf.png)
 Week 7 Playing Drawasaurus - Nominated by Hannah FAC19 15/04/20
