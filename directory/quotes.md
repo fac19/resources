@@ -14,7 +14,7 @@ Vatsal (masquerading as Jack): "make a circle with hands"
 ![](https://i.imgur.com/J7U9Bhf.png)
 Week 7 Playing Drawasaurus - Nominated by Hannah FAC19 15/04/20
 
-'There are no regrets, only stretch goals'
+Camboi 'There are no regrets, only stretch goals' nominated by Vatsal 17/04/20
 
 ## The bad 
 Vatsal: "I am too hard worker to know what REST is"
