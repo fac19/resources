@@ -11,3 +11,4 @@
 | https://flukeout.github.io/ | CSS Diner - a game that teaches you advanced CSS selectors | hannahgooding |
 | https://9elements.com/bem-cheat-sheet/ | BEM cheatsheet | Kat | 
 | [CSS cheatsheet from Udemy course](https://imgur.com/a/m6Yl2Jo) | CSS processing, relative units and inheritance cheatsheet | Jack | 
+| [A nerd's guide to colour](https://css-tricks.com/nerds-guide-color-web/) | CSS tricks article with everything about colour theory for web development | Jack |
