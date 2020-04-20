@@ -10,6 +10,9 @@ Week 5 presentations - Nominated by Reuben FAC17 03/04/20
 Ako: "Yes you are right... semantically." The Art of Passive Agressive Feedback by Akaki Mikaia
 CADO W7 SGC - Nominated by Joe FAC19 17/04/20
 
+Oli: "I have had a drunken SQL session with data witch @starsuit and she has provided the solution." 
+Friday night after REST API W7 - Nominated by Reuben FAC17 17/04/20
+
 Vatsal (masquerading as Jack): "make a circle with hands"
 ![](https://i.imgur.com/J7U9Bhf.png)
 Week 7 Playing Drawasaurus - Nominated by Hannah FAC19 15/04/20
