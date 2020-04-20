@@ -7,4 +7,5 @@
 | https://krisp.ai | Blocks background noise | glrta |
 | https://regex101.com/ | Regex generator | Hettie |
 | [Coolors](https://coolors.co/app) | Generates 5 colours for a nice theme | Jack|
+| [HSL picker](http://hslpicker.com/) | Simple tool for finding the right HSL | Jack |
 | [Debugging bliss](https://vgpena.github.io/debugging-bliss/) | Debugging best practice | Jack |
