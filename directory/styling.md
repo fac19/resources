@@ -12,3 +12,5 @@
 | https://9elements.com/bem-cheat-sheet/ | BEM cheatsheet | Kat | 
 | [CSS cheatsheet from Udemy course](https://imgur.com/a/m6Yl2Jo) | CSS processing, relative units and inheritance cheatsheet | Jack | 
 | [A nerd's guide to colour](https://css-tricks.com/nerds-guide-color-web/) | CSS tricks article with everything about colour theory for web development | Jack |
+|https://css-tricks.com/lodge/svg/|Intro to SVGs - series of ~5min videos|Ivo|
+|https://css-tricks.com/icon-fonts-vs-svg/|Icon fonts v.s. SVGs|Ivo|
