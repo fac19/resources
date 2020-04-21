@@ -7,3 +7,6 @@
 | https://www.glassdoor.co.uk/Interview/ | Search interview questions by company on Glassdoor | @hannahgooding |
 | https://github.com/andreis/interview/blob/master/README.md | Tonnes of interview resources compiled by Andrei Simionescu | @hannahgooding |
 | https://flowcv.io/ | webpage where you can Build  a CV| akomiqaia |
+| [Write a CV in HTML](https://ericwbailey.design/writing/how-to-not-make-a-resume-in-react.html ) | Writing your CV in your website | Oli |
+| [Basics of an online CV](https://mxb.dev/blog/eleventy-resume-builder/) | how to keep a CV nice and simple | Oli |
+| [Oli's CV](https://oliverjam.es/cv/) | Oli's CV as an exmaple | Oli |
