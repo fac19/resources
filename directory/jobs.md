@@ -10,3 +10,4 @@
 | [Write a CV in HTML](https://ericwbailey.design/writing/how-to-not-make-a-resume-in-react.html ) | Writing your CV in your website | Oli |
 | [Basics of an online CV](https://mxb.dev/blog/eleventy-resume-builder/) | how to keep a CV nice and simple | Oli |
 | [Oli's CV](https://oliverjam.es/cv/) | Oli's CV as an exmaple | Oli |
+| [@print media queries](https://github.com/maxboeck/resume/blob/master/src/assets/styles/print/_index.scss) | How to set specific styles for a user printing the site | oli |
