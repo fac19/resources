@@ -27,4 +27,6 @@ Hettie: "You'd think that if they were good enough to sign up they wouldn't be d
 Week 7 TFB Workshop - Nominated by Kat 14 April 2020
 
 ## The ugly
-<-- Insert quotes here -->
+Chloe: "Yeah I had a good lunch, we listened to some noughties music"  
+Joe: "What's naughty music?!?"  
+Week 8 Project Team Stand-up - Nominated by Hannah 22 April 2020
