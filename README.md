@@ -17,6 +17,7 @@ Credit to [Joko](https://github.com/jokosanyang) for the ingenious idea!
 - [Tools/Generators](./directory/tools.md)
 - [Talks](./directory/talks.md)
 - [Node.js](./directory/node.md)
+- [Single page applications](./directory/SPAs.md)
 - [Job search](./directory/jobs.md)
 - [Meetups](./directory/meetups.md)
 - [Accessibility](./directory/accessibility.md)
