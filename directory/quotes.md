@@ -32,6 +32,6 @@ Joe: "What's naughty music?!?"
 Week 8 Project Team Stand-up - Nominated by Hannah 22 April 2020
 
 Tom: "It's not because I want to have sex with the game characters" 
-answering [Striking Vipers](https://www.imdb.com/title/tt8503298/) for a Black Mirror episode he would __gladly__ be stuck in. Nominated by Gio 28/04/20
+picking [Striking Vipers](https://www.imdb.com/title/tt8503298/) as a Black Mirror episode he would __gladly__ be stuck in. Nominated by Gio 28/04/20
 
 
