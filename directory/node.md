@@ -13,3 +13,4 @@
 | https://itnext.io/how-to-handle-the-post-request-body-in-node-js-without-using-a-framework-cd2038b93190 | How to handle the POST request body in Node.js without using a framework | akomiqaia |
 | https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X | Working with Data and APIs in JavaScript | akomiqaia |
 | [API - client visualisation](https://slack-files.com/TJ91QJ800-F011SKBTD1B-b09302f874) | Oli's diagram on how an API typically interacts with a client | Jack |
+| [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) | A mahoosive list of 'awesome' Node modules... If you find any great ones let us know! | Jack |
