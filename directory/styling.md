@@ -17,3 +17,4 @@
 | [CSS Easing functions](https://easings.net/) | Snippets for different easing functions - e.g. bounce in, accelerate out, etc | Jack |
 | [Bezier curve generator](https://cubic-bezier.com) | Design and test your own bezier curves | Jack |
 |[CSS for People Who Hate CSS](https://paulcpederson.com/articles/css-for-people-who-hate-css/)|Some simple but important guidance on getting CSS right|Jack|
+|[30 helpful selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)|explanation of 30 selectors than can be particularly helpful to understand|Jack|
