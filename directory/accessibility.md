@@ -3,6 +3,7 @@
 | Link | Description | Added by |
 | ---- | ----------- | -------- |
 | https://fac-a11y.netlify.com/#0 | Accessibility for Everyone by Oli  | glrta  |
+|[A11y cheat sheet](https://bitsofco.de/the-accessibility-cheatsheet/)|A (comprehensive) summary of WCAG's four guiding principles of accessible design - Perceviable, Operable, Understandable, Robust |Jack|
 | https://codepen.io/oliverjam/pen/JjdZaoV | Custom checkboxes (Oli's codepen coded live)  | glrta  |
 | https://www.webfx.com/tools/read-able/ | Readable - free Readability Test Tool | glrta  |
 | [Accessible SVG icons](https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/)| Making SVFG accessible | Gregor |
