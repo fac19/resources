@@ -11,4 +11,4 @@
 | [Debugging bliss](https://vgpena.github.io/debugging-bliss/) | Debugging best practice | Jack |
 | [CSS section sparator generator](https://wweb.dev/resources/css-separator-generator) | Generates section separators in CSS | glrta |
 |[Clippy](https://bennettfeely.com/clippy/)|CSS clip-path generator|Jack|
-|[Random user generator](https://randomuser.me/)|An API which returns a whole bunch of random user data - could be good for testing databases?|Jack|
+|[Image compressor](https://imagecompressor.com/)|Quickly compress image with slider to balance size and quality|Jack|
