@@ -8,3 +8,4 @@
 | [SVG icons](https://iconsvg.xyz/) | SVG icons | Jack |
 | [Password strength tool](https://dropbox.tech/security/zxcvbn-realistic-password-strength-estimation) | For a Dropbox hackathon, this guy made an opensource password strength checker that is more accurate than most, I implemented it [here](https://github.com/jackherizsmith/password-strength/) | Jack |
 |[Coverr (stock footage)](https://coverr.co/)| Creative commons video for free use |Jack|
+|[Typo Guide](http://www.typogui.de/)|Quick 101 on typefaces and how to use them|Jack|
