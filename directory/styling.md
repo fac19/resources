@@ -16,3 +16,4 @@
 |https://css-tricks.com/icon-fonts-vs-svg/|Icon fonts v.s. SVGs|Ivo|
 | [CSS Easing functions](https://easings.net/) | Snippets for different easing functions - e.g. bounce in, accelerate out, etc | Jack |
 | [Bezier curve generator](https://cubic-bezier.com) | Design and test your own bezier curves | Jack |
+|[CSS for People Who Hate CSS](https://paulcpederson.com/articles/css-for-people-who-hate-css/)|Some simple but important guidance on getting CSS right|Jack|
