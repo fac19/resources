@@ -12,3 +12,4 @@
 | [CSS section sparator generator](https://wweb.dev/resources/css-separator-generator) | Generates section separators in CSS | glrta |
 |[Clippy](https://bennettfeely.com/clippy/)|CSS clip-path generator|Jack|
 |[Image compressor](https://imagecompressor.com/)|Quickly compress image with slider to balance size and quality|Jack|
+|[Favicon generator](https://realfavicongenerator.net/)|Generate favicons from an image, and will also give feedback on how good your existing one is|Jack|
