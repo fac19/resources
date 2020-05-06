@@ -9,4 +9,4 @@
 |[Coverr (stock footage)](https://coverr.co/)| Creative commons video for free use |Jack|
 |[Typo Guide](http://www.typogui.de/)|Quick 101 on typefaces and how to use them|Jack|
 |[Guide to DOM components](https://material.io/components)|A helpful overview of common elements, including important features and functionality to consider|Jack|
-|[Emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)|All available emojis in mardown (GitHub and HackMD)|https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md|
+|[Emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)|All available emojis in mardown (GitHub and HackMD)|Jack|
