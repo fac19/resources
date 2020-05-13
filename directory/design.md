@@ -11,4 +11,4 @@
 |[Guide to DOM components](https://material.io/components)|A helpful overview of common elements, including important features and functionality to consider|Jack|
 |[Emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)|All available emojis in mardown (GitHub and HackMD)|Jack|
 |[SVG OMG](https://jakearchibald.github.io/svgomg/)|Generate SVG code|Jack|
-|(Useability heuristics)[https://www.nngroup.com/articles/ten-usability-heuristics/] | 10 heuristics for UX from Renatas talk |Jack|
+|[Useability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) | 10 heuristics for UX from Renatas talk |Jack|
