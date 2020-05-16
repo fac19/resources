@@ -22,7 +22,8 @@ This file should contain the names of each Wed & Fri speaker and a link to their
 | 8    | Cesar (allplants)        | [Engineering at allplants](https://docs.google.com/presentation/d/1-KejRtj4vF5MDaCD9nlVKcGCzqDwNPHJMsA6UeAri6w/edit?usp=sharing) |
 | 10    | Bobby (FAC16/Flourish)        | [Intro to Figma](https://github.com/bobbysebolao/figma-prototyping-tutorial) |
 | 10   | Helen (FAC13/ThoughtWorks)        | [Getting your first Dev Job](https://hackmd.io/@uYhtwaTkQeyelbBdX4OTeA/Sk0ek1Xq8#/) |
-| 11    | Elias (FACN1)        | [Topic](#) |
+| 11    | Elias (FACN1)        | [Building Cross-Platform React Apps and Design System](https://github.com/macintoshhelper/building-cross-platform-design-systems/tree/master/slides) |
+| 11    | Jared (Oliver Wyman Digital)        | [Usability Testing](https://slack-files.com/TJ91QJ800-F0140PJ0UCR-455c711a68) |
 | 11    | Johanna (FAC12 / Workerbird)        | [Topic](#) |
 | 12   | Michael (FAC14)        | [Topic](#) |
 | 12   | Adam (Dangoor Mendel)        | [Topic](#) |
