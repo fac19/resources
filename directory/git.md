@@ -7,4 +7,4 @@
 | https://www.atlassian.com/git/tutorials/syncing/git-pull | Atlassian Git Documentation | lizzy-j |
 | https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-summary-of-repository-activity | Viewing a summary of repository activity | akomiqia |
 | https://help.github.com/en/github/managing-your-work-on-github/opening-an-issue-from-code | Opening an issue from code | akomiqaia |
-|[Fire for Github](https://fire.fundersclub.com/)|Connect any of your repos to fire-bot so that anyone can create issues by email|Jack|
+|[Fire by Founders Club](https://fire.fundersclub.com/)|Give access to @fire-bot on any of your repos so that anyone can create issues by email|Jack|
