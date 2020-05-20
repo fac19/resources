@@ -17,3 +17,4 @@
 | https://github.com/oliverjam/tdd-array-methods/blob/master/solution/tdd-explanation.js | TDD step-by-step (updated TDD array-methods workshop) | glrta|
 | https://codepen.io/oliverjam/pen/vYOajog?editors=1010 | Finding which radio is checked (Oli's codepen) | glrta|
 |[...](https://scotch.io/bar-talk/javascripts-three-dots-spread-vs-rest-operators543)|The difference between rest and spread (and how they work)|Jack|
+|[Guide to react-router](https://github.com/dabit3/beginners-guide-to-react-router)|Intro for using react-router in apps|Jack|
