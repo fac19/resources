@@ -2,6 +2,7 @@
 
 | Link | Description | Added by |
 | ---- | ----------- | -------- |
+| https://hackmd.io/ylnlHb9-Q8OEP_LkQbKQRA | FAC19 Employment prep, Week 12, Presentation | @Alexreid95 |
 | https://hackmd.io/@hannahgooding/ry5lS6MHI | Notes from Codebar talk: Landing Your First Dev Job | @hannahgooding |
 | https://www.pramp.com/ | Practice mock interviews | @hannahgooding |
 | https://www.glassdoor.co.uk/Interview/ | Search interview questions by company on Glassdoor | @hannahgooding |
