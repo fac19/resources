@@ -10,4 +10,4 @@
 |[Test Desiderata YT series](https://www.youtube.com/watch?v=5LOdKDqdWYU)|12 part series on testing from Micahel's talk|Jack|
 |[Set up and teardown with Jest](https://jestjs.io/docs/en/setup-teardown)|Preparing a test environment with Jest|Jack|
 |[Codecov](codecov.io)|Measure code coverage|Jack|
-|[7 reasons to write consumer-driven contracts](https://reflectoring.io/7-reasons-for-consumer-driven-contracts/)|Three approaches to implementing integration tests between distributed services and shows the advantages of Consumer-Driven Contract tests|Jack|
+|[7 reasons to write consumer-driven contract tests](https://reflectoring.io/7-reasons-for-consumer-driven-contracts/)|Three approaches to implementing integration tests between distributed services and shows the advantages of Consumer-Driven Contract tests|Jack|
