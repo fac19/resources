@@ -14,4 +14,4 @@
 | [Oli's CV](https://oliverjam.es/cv/) | Oli's CV as an exmaple | Oli |
 | [@print media queries](https://github.com/maxboeck/resume/blob/master/src/assets/styles/print/_index.scss) | How to set specific styles for a user printing the site | oli |
 | [Codebar Talk (Youtube)](https://www.youtube.com/watch?v=6Dk5JDDi0ik) | Navigating your career in COVID-19 - Jennifer Gabrielle-Chapman | Rob Faldo (April 2020) | @hannahgooding |
-
+|[Helen's presentation on getting a job](https://hackmd.io/@uYhtwaTkQeyelbBdX4OTeA/Sk0ek1Xq8#/)|Delivered 8 May |Jack|
