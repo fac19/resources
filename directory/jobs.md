@@ -3,6 +3,7 @@
 | Link | Description | Added by |
 | ---- | ----------- | -------- |
 | https://hackmd.io/ylnlHb9-Q8OEP_LkQbKQRA | FAC19 Employment prep, Week 12, Presentation | @Alexreid95 |
+| https://hackmd.io/PlvMU6IMQsiEUQr8V0i0Mg | FAC19 Employment prep, Week 12, Presentations **all in one** | @glrta |
 | https://hackmd.io/@hannahgooding/ry5lS6MHI | Notes from Codebar talk: Landing Your First Dev Job | @hannahgooding |
 | https://www.pramp.com/ | Practice mock interviews | @hannahgooding |
 | https://www.glassdoor.co.uk/Interview/ | Search interview questions by company on Glassdoor | @hannahgooding |
@@ -13,3 +14,4 @@
 | [Oli's CV](https://oliverjam.es/cv/) | Oli's CV as an exmaple | Oli |
 | [@print media queries](https://github.com/maxboeck/resume/blob/master/src/assets/styles/print/_index.scss) | How to set specific styles for a user printing the site | oli |
 | [Codebar Talk (Youtube)](https://www.youtube.com/watch?v=6Dk5JDDi0ik) | Navigating your career in COVID-19 - Jennifer Gabrielle-Chapman | Rob Faldo (April 2020) | @hannahgooding |
+
