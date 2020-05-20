@@ -8,3 +8,4 @@
 |[Nibbler](https://nibbler.silktide.com/)|Test any website on accessbility, user experience, technology and 'marketing'|Jack|
 |[Test disiderata Medium article](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3)||Jack|
 |[Test Desiderata YT series](https://www.youtube.com/watch?v=5LOdKDqdWYU)|12 part series on testing from Micahel's talk|Jack|
+|[Set up and teardown with Jest](https://jestjs.io/docs/en/setup-teardown)|Preparing a test environment with Jest|Jack|
