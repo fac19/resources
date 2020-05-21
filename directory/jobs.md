@@ -15,3 +15,4 @@
 | [@print media queries](https://github.com/maxboeck/resume/blob/master/src/assets/styles/print/_index.scss) | How to set specific styles for a user printing the site | oli |
 | [Codebar Talk (Youtube)](https://www.youtube.com/watch?v=6Dk5JDDi0ik) | Navigating your career in COVID-19 - Jennifer Gabrielle-Chapman | Rob Faldo (April 2020) | @hannahgooding |
 |[Helen's presentation on getting a job](https://hackmd.io/@uYhtwaTkQeyelbBdX4OTeA/Sk0ek1Xq8#/)|Delivered 8 May |Jack|
+|[Master the Interview Medium series](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)|A Medium series of articles on different things that could come up in JS intereviews, with homework|Jack|
