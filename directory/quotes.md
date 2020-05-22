@@ -21,6 +21,9 @@ Camboi 'There are no regrets, only stretch goals' nominated by Vatsal 17/04/20
 
 Jack: "Oh have I been on mute this whole time?!? I assumed everyone could hear me because I was making jokes and you guys were laughing" Week 11 Design Week Day 1 - nominated by Hannah 11/05/20
 
+Gio: "Who is the cleaner for next week?"
+Every Friday shame for those who did not clean in weeks 3 to 5 - nominated by Joe 22/05/20
+
 ## The bad 
 Vatsal: "I am too hard worker to know what REST is"
 Week 7 Learn REST APIs workshop - Nominated by Gio 14 April 2020
