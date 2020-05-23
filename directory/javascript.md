@@ -18,3 +18,4 @@
 | https://codepen.io/oliverjam/pen/vYOajog?editors=1010 | Finding which radio is checked (Oli's codepen) | glrta|
 |[...](https://scotch.io/bar-talk/javascripts-three-dots-spread-vs-rest-operators543)|The difference between rest and spread (and how they work)|Jack|
 |[Guide to react-router](https://github.com/dabit3/beginners-guide-to-react-router)|Intro for using react-router in apps|Jack|
+|[16 pro tips](https://hackernoon.com/16-javascript-protips-2020-edition-n7et32dd)|Top tips and tricks every developer should know in 2020|Jack|
