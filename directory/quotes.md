@@ -39,4 +39,6 @@ Week 8 Project Team Stand-up - Nominated by Hannah 22 April 2020
 Tom: "It's not because I want to have sex with the game characters" 
 picking [Striking Vipers](https://www.imdb.com/title/tt8503298/) as a Black Mirror episode he would __gladly__ be stuck in. Nominated by Gio 28/04/20
 
-Ako: "I want to get the whole universe tattooed on my body... the blackhole will be exactly where you think it will be" During Week 13 Team SGC - Nominated by Chloe 22/05/20\
+Ako: "I want to get the whole universe tattooed on my body... the blackhole will be exactly where you think it will be" During Week 13 Team SGC - Nominated by Chloe 22/05/20
+
+Jack: "God...who would decide to do this for the rest of their lives" during a late night coding session in the final week of our student projects - Nominated by Hannah 25/05/2020
