@@ -10,9 +10,11 @@
 |[Typo Guide](http://www.typogui.de/)|Quick 101 on typefaces and how to use them|Jack|
 |[Guide to DOM components](https://material.io/components)|A helpful overview of common elements, including important features and functionality to consider|Jack|
 |[Emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)|All available emojis in mardown (GitHub and HackMD)|Jack|
-|[SVG OMG](https://jakearchibald.github.io/svgomg/)|Generate SVG code|Jack|
+|[SVG OMG](https://jakearchibald.github.io/svgomg/)|Generate SVG code|Jack & lizzy-j|
 |[Usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) | 10 heuristics for UX from Renatas talk |Jack|
 |[SVG animation code-along](https://github.com/bobbysebolao/learn-svg-animation) | SVG animation code-along to accompany Bobby's presentation | lizzy-j|
 |[SVG viewbox visual explainer](https://wattenberger.com/guide/scaling-svg) | Scaling SVG Elements | lizzy-j|
-|[SVGOMG](https://jakearchibald.github.io/svgomg/) | Tool for optimising .svg files | lizzy-j|
 |[Figma shortcuts](https://shortcuts.design/toolspage-figma.html) | Shortcuts for Figma | lizzy-j|
+|[Icon SVGs](https://iconsvg.xyz/)| SVG Icons | @hannahgooding |
+|[Drawkit Illustrations](https://www.drawkit.io/free)| Free to use illustrations | @hannahgooding |
+|[Undraw Illustrations](https://undraw.co/search)| License-free illustrations | @hannahgooding |
