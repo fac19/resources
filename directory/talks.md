@@ -12,7 +12,7 @@ This file should contain the names of each Wed & Fri speaker and a link to their
 | 3    | Rory (FAC8/Rollio)       | [Freelancing/working remote](#)                                                                                                   |
 | 4    | Dan        | [Employment](#)                                                                                                       |
 | 4 | Tom (Time to Spare)        | [Time to Spare](#)  |
-| 5 | Gigi (FAC17/Lantum)        | [Lantum & Good Coding Practices](#)  |
+| 5 | Gigi (FAC17/Lantum)        | [Lantum & Good Coding Practices] - request from @Albadylic  |
 | 5 | Justen        | [Freelancin' n that](#)  |
 | 6 | Cat (DotProject)        | [DotProject and Charity Sector](https://docs.google.com/presentation/d/1kwNjlF2M2z24W1EeGLSkfj7GdcupuG-EUmwBtbTgikE/edit#slide=id.g72fbad0f44_1_2)  |
 | 6 | Ivan (FAC7/InFact)        | [Learning how to Learn](https://learning-how-to-learn.now.sh/#0)  |
