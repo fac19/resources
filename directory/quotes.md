@@ -24,6 +24,8 @@ Jack: "Oh have I been on mute this whole time?!? I assumed everyone could hear m
 Gio: "Who is the cleaner for next week?"
 Every Friday shame for those who did not clean in weeks 3 to 5 - nominated by Joe 22/05/20
 
+Ina: "Kwame could you merge our pull request?" on getting our PO to do our admin. nom by Jack
+
 ## The bad 
 Vatsal: "I am too hard worker to know what REST is"
 Week 7 Learn REST APIs workshop - Nominated by Gio 14 April 2020
