@@ -19,3 +19,4 @@
 |[The Dev List](https://www.thedevlist.com/)|This doesn't really fit, but is the best place for it - "theDevList analyzes the very best resources from around the world daily and collates them into a single feed for developers to consume."|Jack|
 | [What if I'm under-qualified for a job ?](https://dev.to/thomaslebn/what-if-i-don-t-have-enough-experience-3j13) | Article answering the question "What if I'm under-qualified for a job ?" | @Alexreid95      |
 |[Roadmap for getting a job in 2020](https://github.com/kamranahmedse/developer-roadmap)|Nice infographic from Ivo's friend|Jack|
+|[The Unqualified Engineer on YouTube](https://www.youtube.com/c/JgGg-the-unqualified-engineer/videos)|YT series on interviews|Dan|
